@@ -1,0 +1,10 @@
+# .gitignore
+
+# Node modules folder
+node_modules/
+
+# Next.js build output
+.next/
+
+# Log files
+npm-debug.log
